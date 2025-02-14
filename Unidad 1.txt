@@ -1,0 +1,21 @@
+1. Sistema Binario
+Es un sistema de numeración que usa solo dos dígitos: 0 y 1.
+Es la base de la computación, ya que los dispositivos electrónicos procesan información en forma de bits (binary digits).
+Cada posición en un número binario representa una potencia de 2 (ejemplo: 1011 = 1×2³ + 0×2² + 1×2¹ + 1×2⁰ = 11 en decimal).
+
+2. Lógica
+Es la ciencia que estudia los principios del razonamiento válido.
+En computación, se usa lógica booleana, que opera con valores verdadero (1) y falso (0).
+Las operaciones básicas son: AND, OR, NOT, que permiten tomar decisiones y controlar el flujo de un programa.
+
+3. Algoritmo
+Es un conjunto ordenado y finito de pasos para resolver un problema o realizar una tarea.
+Debe ser claro, preciso y tener un inicio y un fin
+Ejemplo: Una receta de cocina o las instrucciones para sumar dos números.
+
+4. Programación
+Es el proceso de diseñar, escribir, probar y mantener código fuente para crear software.
+Se usan lenguajes de programación (como Python, Java, C++) para comunicarse con la computadora.
+Involucra conceptos como variables, condicionales, bucles y funciones para crear programas que resuelvan problemas específicos.
+
+En resumen: El sistema binario es la base de la computación, la lógica permite tomar decisiones, los algoritmos son pasos para resolver problemas, y la programación es la práctica de crear software usando estos conceptos. 

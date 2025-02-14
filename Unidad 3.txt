@@ -1,0 +1,42 @@
+1. Controlador de versiones
+Herramienta que permite gestionar cambios en el código a lo largo del tiempo.
+Ayuda a:
+Guardar versiones anteriores del proyecto.
+Trabajar en equipo sin sobrescribir cambios.
+Revertir a versiones previas si algo sale mal.
+Ejemplos: Git, Subversion, Mercurial.
+2. GitHub
+Plataforma en la nube para alojar proyectos usando Git.
+Permite:
+Almacenar repositorios de código.
+Colaborar con otros desarrolladores.
+Gestionar issues (problemas) y pull requests (contribuciones).
+Es ampliamente usado en proyectos de código abierto y privados.
+3. Instrucciones básicas de Git
+git init: Inicializa un repositorio Git en un directorio.
+git clone [url]: Clona un repositorio remoto a tu máquina local.
+git add [archivo]: Añade cambios al área de preparación (staging).
+git commit -m "mensaje": Guarda los cambios en el repositorio con un mensaje descriptivo.
+git push: Sube los cambios al repositorio remoto.
+git pull: Obtiene cambios del repositorio remoto y los fusiona con tu copia local.
+git branch [nombre]: Crea una nueva rama.
+git checkout [rama]: Cambia a una rama específica.
+git merge [rama]: Fusiona una rama con la rama actual.
+
+4. Ejemplos de uso de GitHub
+Crear un repositorio:
+En GitHub, haz clic en "New" para crear un repositorio.
+Sigue las instrucciones para añadir archivos o clonar el repositorio.
+
+Clonar un repositorio:
+git clone https://github.com/usuario/repositorio.git
+Subir cambios:
+Añade archivos modificados:
+git add .
+Haz un commit:
+git commit -m "Descripción de los cambios"
+Sube los cambios:
+git push origin main
+Colaborar con otros:
+Haz un fork de un repositorio para crear tu propia copia.
+Crea un pull request para sugerir cambios al repositorio original
